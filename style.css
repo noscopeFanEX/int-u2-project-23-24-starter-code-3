@@ -1,6 +1,20 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
 header {
-    background-color: black;
+    background-color: rgb(19, 16, 107);
     color: white;
     padding: 128px 16px;
+}
+.insta{
+    width: 100px;
+    position: sticky;
+    top: 110px;
+    right: 40px;
+}
+.inst{
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+   
 }
